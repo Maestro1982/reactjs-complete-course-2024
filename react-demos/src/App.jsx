@@ -1,11 +1,5 @@
-import Counter from './hooks/useReducer/Counter';
-
 const App = () => {
-  return (
-    <>
-      <Counter />
-    </>
-  );
+  return <></>;
 };
 
 export default App;
